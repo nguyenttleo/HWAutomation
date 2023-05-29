@@ -19,7 +19,7 @@ To get started with the HWAutomation project, follow these steps:
 1. :octocat: Clone the project repository:
 
    ```bash
-   git clone https://github.com/your-username/HWAutomation.git
+   git clone https://github.com/nguyenttleo/HWAutomation.git
    ```
 
 2. :package: Install the required dependencies:
