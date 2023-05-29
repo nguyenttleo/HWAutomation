@@ -2,7 +2,7 @@ import imaplib
 import base64
 import os
 import email
-import main2 as submit
+import seleniumFuncs as submit
 import time
 
 while True:
