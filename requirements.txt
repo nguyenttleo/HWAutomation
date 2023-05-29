@@ -1,0 +1,6 @@
+selenium
+pyautogui
+imaplib
+base64
+os
+email
